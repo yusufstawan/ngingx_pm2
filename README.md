@@ -1,4 +1,4 @@
-VueJS PM2 + Nginx
+# VueJS PM2 + Nginx
 
 # /var/www/your_domain.id
 
